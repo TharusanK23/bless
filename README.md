@@ -1,7 +1,5 @@
-![Bless](https://github.com/TharusanK23/acquest/blob/main/assets/images/logo.png?raw=true)(https://github.com/TharusanK23/acquest/blob/main/assets/images/logo.png?raw=true)
-![Bless](https://github.com/TharusanK23/acquest/blob/main/assets/images/logo.png?raw=true)(https://github.com/TharusanK23/acquest/blob/main/assets/images/logo.png?raw=true)
-# Bless
-
+![Bless](https://github.com/TharusanK23/bless/blob/main/images/logo/bless-logo-1.png?raw=true)
+![Bless](https://github.com/TharusanK23/bless/blob/main/images/logo/bless-logo-2.png?raw=true)
 
 #### Bless made with Flutter!
 
@@ -27,20 +25,20 @@ Check it yourself :)
 
 | Splash Screen | Loading Screen | Home Screen |
 | :---         | :---:    | ---:          |
-| ![Splash Screen](https://github.com/TharusanK23/acquest/blob/main/screen-shots/splash.png?raw=true) | ![Loading Screen](https://github.com/TharusanK23/acquest/blob/main/screen-shots/welcome.png?raw=true) | ![Home Screen](https://github.com/TharusanK23/acquest/blob/main/screen-shots/sign-in.png?raw=true) |
+| ![Splash Screen](https://github.com/TharusanK23/bless/blob/main/screen-shots/Splash%20Screen.png?raw=true) | ![Loading Screen](https://github.com/TharusanK23/bless/blob/main/screen-shots/Loading%20Screen.png?raw=true) | ![Home Screen](https://github.com/TharusanK23/bless/blob/main/screen-shots/Home%20Page%20All%20Data.png?raw=true) |
 
 | Category Filtered Data Screen | Search Filtered Data Screen | Details Screen |
 | :---         | :---:    | ---:          |
-| ![Category Filtered Data Screen](https://github.com/TharusanK23/acquest/blob/main/screen-shots/splash.png?raw=true) | ![Search Filtered Data Screen](https://github.com/TharusanK23/acquest/blob/main/screen-shots/welcome.png?raw=true) | ![Details Screen](https://github.com/TharusanK23/acquest/blob/main/screen-shots/sign-in.png?raw=true) |
+| ![Category Filtered Data Screen](https://github.com/TharusanK23/bless/blob/main/screen-shots/Category%20Filtterd%20Data.png?raw=true) | ![Search Filtered Data Screen](https://github.com/TharusanK23/bless/blob/main/screen-shots/Search%20Filttered%20Data.png?raw=true) | ![Details Screen](https://github.com/TharusanK23/bless/blob/main/screen-shots/Details%20View.png?raw=true) |
 
 
 | Liked View Screen | Added in Basket Screen | Cart Screen |
 | :---         | :---:    | ---:          |
-| ![Liked View Screen](https://github.com/TharusanK23/acquest/blob/main/screen-shots/splash.png?raw=true) | ![Added in Basket Screen](https://github.com/TharusanK23/acquest/blob/main/screen-shots/welcome.png?raw=true) | ![Cart Screen](https://github.com/TharusanK23/acquest/blob/main/screen-shots/sign-in.png?raw=true) |
+| ![Liked View Screen](https://github.com/TharusanK23/bless/blob/main/screen-shots/Licked%20view.png?raw=true) | ![Added in Basket Screen](https://github.com/TharusanK23/bless/blob/main/screen-shots/Added%20in%20Basket%20View.png?raw=true) | ![Cart Screen](https://github.com/TharusanK23/bless/blob/main/screen-shots/Cart%20View.png?raw=true) |
 
 | Empty Cart Screen |  |  |
 | :---         | :---:    | ---:          |
-| ![Empty Cart Screen](https://github.com/TharusanK23/acquest/blob/main/screen-shots/splash.png?raw=true) |  |  |
+| ![Empty Cart Screen](https://github.com/TharusanK23/bless/blob/main/screen-shots/Empty%20Cart%20View.png?raw=true) |  |  |
 
 
 ## Building from Source
