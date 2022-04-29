@@ -30,8 +30,15 @@ class HomeViewModel extends BaseViewModel {
   }
 
   navigateToProdutView(BuildContext context, Product product) {
-    Navigator.pushNamed(context, ProductView.routeName, arguments: ProductViewArqument(product: product));
-    notifyListeners();
+    Navigator.pushNamed(context, ProductView.routeName, arguments: ProductViewArqument(product: product)).then((dynamic value) {
+      if(value != null) {
+       int index = _productList.indexWhere((element) => element.id == value['id']);
+       if(index != -1) {
+         _productList[index].isLiked = value['isLiked'];
+         notifyListeners();
+       }
+      }
+    });
   }
 
   _getLatestValue() {

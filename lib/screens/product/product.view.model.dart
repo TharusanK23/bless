@@ -24,11 +24,14 @@ class ProductViewModel extends BaseViewModel {
 
   void navigateToBasketView(BuildContext context) {
     Navigator.of(context).pushNamed(CartView.routeName);
-    notifyListeners();
   }
 
   void addToCart(BuildContext context,) {
     _productController.addProduct(_product, false);
     notifyListeners();
+  }
+
+  void goBack(BuildContext context) {
+    Navigator.pop(context, {'id': _product.id, 'isLiked': _product.isLiked});
   }
 }

@@ -20,7 +20,7 @@ class ProductView extends StatelessWidget {
                 backgroundColor: secondary,
                 elevation: 0.0,
                 leading: GestureDetector(
-                  onTap: (() => Navigator.pop(context)),
+                  onTap: () => model.goBack(context),
                   child: const Icon(
                     Icons.arrow_back_ios,
                     color: dark,
